@@ -1,0 +1,58 @@
+body{
+    font-family: 'Estonia', cursive;
+}
+
+
+.primeirapagina{
+    background: url("../imagem/primeiraImagem.png")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.segundapagina{
+    background: url("../imagem/segundaImagem.png")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.terceirapagina{
+    background: url("../imagem/terceiraImagem.png")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.botao{
+    display: flex;
+    justify-content: center;
+   
+  }
+
+.jogar{
+    margin-top: 80px;
+    justify-content: center;
+    background: #6e0202;
+    color: white;
+    border-style: outset;
+    border-color: #d30505;
+    height: 50px;
+    width: 100px;
+    font: bold 15px arial, sans-serif;
+    text-shadow:none;
+}
+
+.texto{
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+    background: rgba(248, 241, 211, 0.7);
+    font-size: 50px;
+    border-radius: 1%
+    
+}
